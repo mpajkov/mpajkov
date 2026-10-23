@@ -1,6 +1,6 @@
 # Hi, I'm Matteo (Soflo) 👋
 
-Front-end developer in Pula, Croatia, working remotely. I build fast, multilingual websites for vacation homes and holiday rentals, with booking calendars and enquiry forms.
+Front-end developer in Pula, Croatia, working remotely. I build fast, multilingual websites for vacation homes and holiday rentals, with availability calendars and enquiry forms.
 
 **Tools I use:** HTML · CSS · SCSS · JavaScript · Vue · Vue Router · Tailwind CSS · Git · Figma
 
